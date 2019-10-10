@@ -1,0 +1,15 @@
+.item {
+  min-width: 232px;
+  width: calc(100vw / 4 - 2.5rem);
+  min-height: 232px;
+  height: calc(100vw / 4 - 2.5rem);
+  border: 0.25rem solid black;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  float: left;
+  background-color: '#f6f6f6';
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
